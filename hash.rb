@@ -14,7 +14,7 @@ year = gets.to_i
 puts "And the month?"
 month = gets.to_i
 
-puts = "On which day?"
+puts "On which day?"
 day = gets.to_i
 
 calendar = WeekDay.new
